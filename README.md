@@ -1,6 +1,6 @@
 # vue-tp
 
-This template should help get you started developing with Vue 3 in Vite.
+projet de film su vuejs
 
 ## Recommended IDE Setup
 
