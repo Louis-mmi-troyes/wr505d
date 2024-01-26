@@ -1,6 +1,6 @@
 # vue-tp
 
-projet de film su vuejs
+projet de film sur vuejs
 
 ## Project Setup
 
