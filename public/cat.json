@@ -1,0 +1,48 @@
+{
+  "@context": "/public/index.php/api/contexts/Category",
+  "@id": "/public/index.php/api/categories",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 5,
+  "hydra:member": [
+    {
+      "@id": "/public/index.php/api/categories/2",
+      "@type": "Category",
+      "id": 2,
+      "name": "Action",
+      "movies": ["Inception", "The Matrix"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/categories/4",
+      "@type": "Category",
+      "id": 4,
+      "name": "Drama",
+      "movies": ["Pulp Fiction", "The Shawshank Redemption"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/categories/5",
+      "@type": "Category",
+      "id": 5,
+      "name": "Sci-Fi",
+      "movies": ["The Dark Knight", "Interstellar"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/categories/6",
+      "@type": "Category",
+      "id": 6,
+      "name": "Adventure",
+      "movies": ["Inglourious Basterds", "Django Unchained"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/categories/7",
+      "@type": "Category",
+      "id": 7,
+      "name": "Thriller",
+      "movies": [],
+      "media": []
+    }
+  ]
+}

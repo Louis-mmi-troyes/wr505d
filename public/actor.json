@@ -1,0 +1,98 @@
+{
+  "@context": "/public/index.php/api/contexts/Actor",
+  "@id": "/public/index.php/api/actors",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 9,
+  "hydra:member": [
+    {
+      "@id": "/public/index.php/api/actors/6",
+      "@type": "Actor",
+      "id": 6,
+      "firstname": "jon",
+      "lastname": "001",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["teris", "lost"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/7",
+      "@type": "Actor",
+      "id": 7,
+      "firstname": "maria",
+      "lastname": "002",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["terminator", "lost"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/8",
+      "@type": "Actor",
+      "id": 8,
+      "firstname": "jane",
+      "lastname": "003",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["inception", "matrix"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/9",
+      "@type": "Actor",
+      "id": 9,
+      "firstname": "michael",
+      "lastname": "004",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["pulp fiction", "shawshank"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/10",
+      "@type": "Actor",
+      "id": 10,
+      "firstname": "emily",
+      "lastname": "005",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["forrest gump", "avatar"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/11",
+      "@type": "Actor",
+      "id": 11,
+      "firstname": "david",
+      "lastname": "006",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["the dark knight", "interstellar"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/12",
+      "@type": "Actor",
+      "id": 12,
+      "firstname": "olivia",
+      "lastname": "007",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["incredibles", "james bond"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/13",
+      "@type": "Actor",
+      "id": 13,
+      "firstname": "samuel",
+      "lastname": "008",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["pulp fiction", "snakes on a plane"],
+      "media": []
+    },
+    {
+      "@id": "/public/index.php/api/actors/14",
+      "@type": "Actor",
+      "id": 14,
+      "firstname": "lily",
+      "lastname": "009",
+      "createdAt": "2002-12-30T00:00:00+00:00",
+      "movies": ["harry potter", "the queen"],
+      "media": []
+    }
+  ]
+}
